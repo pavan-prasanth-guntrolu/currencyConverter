@@ -71,7 +71,7 @@ export default function App() {
       <div className="main">
         <div className="center">
           <p style={{ fontSize: "30px", textAlign: "center" }}>
-            Currency Converter
+            💰️Currency Converter🤑
           </p>
           <input
             type="text"
